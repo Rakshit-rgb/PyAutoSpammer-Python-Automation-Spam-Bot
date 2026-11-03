@@ -1,0 +1,9 @@
+[2026-10-29 00:33:44] Bot started: 1 message(s), 1 round(s), 5.0s delay
+[2026-10-29 00:33:45] Round 1/1 sent #1: Test message
+[2026-10-29 00:33:50] Finished normally. Total messages sent: 1
+[2026-10-29 00:34:09] Bot started: 1 message(s), 1 round(s), 5.0s delay
+[2026-10-29 00:34:10] Round 1/1 sent #1: Test message
+[2026-10-29 00:34:15] Finished normally. Total messages sent: 1
+[2026-10-29 00:35:10] Bot started: 1 message(s), 1 round(s), 10.0s delay
+[2026-10-29 00:35:11] Round 1/1 sent #1: Hello
+[2026-10-29 00:35:21] Finished normally. Total messages sent: 1
